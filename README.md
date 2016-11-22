@@ -1,4 +1,4 @@
-# jenkins-slave-electron
+# docker-jenkins-slave-electron
 
 [`seachicken/docker-jenkins-slave-electron`](https://hub.docker.com/r/seachicken/docker-jenkins-slave-electron/)
 
